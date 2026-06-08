@@ -83,9 +83,3 @@ In this tutorial, we calculate and analyze optical properties from DFT simulatio
 ### Follow for More Tutorials
 
 🎥 YouTube: [https://www.youtube.com/@DeobratQMatX](https://www.youtube.com/@DeobratQMatX)
-
-### Keywords
-
-Quantum ESPRESSO, Optical Properties, DFT, Dielectric Function, Refractive Index, Extinction Coefficient, Absorption Coefficient, Reflectivity, Transmittance, Optical Conductivity, Energy Loss Function, Materials Science, Computational Physics, Python, Electronic Structure Calculations
-
-#QuantumESPRESSO #DFT #MaterialsScience #ComputationalPhysics #OpticalProperties #Python #ElectronicStructure #DensityFunctionalTheory #Research #MaterialsModeling #QMatX #DeobratQMatX
